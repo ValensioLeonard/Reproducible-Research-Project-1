@@ -2,7 +2,7 @@
 title: "Reproducible Data Project 1"
 author: "Leonard"
 date: "7/3/2020"
-output: html_document
+output: rmarkdown::github_document
 editor_options: 
   chunk_output_type: console
 ---
